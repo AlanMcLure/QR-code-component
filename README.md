@@ -16,8 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://alanmclure.github.io/QR-code-component/)
 
 ### Built with
 
@@ -27,4 +26,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@AlanMcLure](https://www.frontendmentor.io/profile/AlanMcLure)
-- Twitter - [@yourusername](https://twitter.com/AlanMcLure_)
+- Twitter - [@AlanMcLure_](https://twitter.com/AlanMcLure_)
