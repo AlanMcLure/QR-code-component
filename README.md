@@ -4,9 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
 
@@ -16,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://alanmclure.github.io/QR-code-component/)
+- Solution URL: [https://alanmclure.github.io/QR-code-component/](https://alanmclure.github.io/QR-code-component/)
 
 ### Built with
 
